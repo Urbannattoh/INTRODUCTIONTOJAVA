@@ -16,12 +16,14 @@ public class anonymousobjects
     public static void main(String[] args) 
     {
         //normal way of creating object
+
         Acronyms acronyms = new Acronyms();
         acronyms.show();
 
         //anonymous object-> the object doesnt have a name
         
         new Acronyms();
+        new Acronyms().show();
 
 
 
