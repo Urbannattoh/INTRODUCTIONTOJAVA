@@ -43,7 +43,6 @@ public class accessmodifiers
 {
     public static void main(String[] args) 
     {
-        @SuppressWarnings("unused")
         Acronyms var1 = new Acronyms();
      
 
